@@ -28,7 +28,7 @@ This repository contains my first data mining project, completed during the Spri
   - `phase4.pdf`: Data quality assessment and issue resolution.  
   - `documents.pdf`: Detailed explanations of frequent patterns and clustering results.  
 - **Datasets**:  
-  - CSV files  
+  - CSV files: `all_video_games(cleaned).csv` and `vgchartz-2024.csv`
 
 ---
 
